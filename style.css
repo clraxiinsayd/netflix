@@ -1,0 +1,93 @@
+@font-face {
+  font-family: "bb-icons";
+  src: url("../fonts/round-lined.eot?1696234609"); /* EOT */
+  src: url("../fonts/round-lined.eot?1696234609#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/round-lined.woff2?1696234609") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/round-lined.woff?1696234609")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/round-lined.ttf?1696234609")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/round-lined.svg?1696234609#round-lined") format("svg"); /* Legacy iOS */
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "bb-icons";
+  src: url("../fonts/round-filled.eot?1696234609"); /* EOT */
+  src: url("../fonts/round-filled.eot?1696234609#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/round-filled.woff2?1696234609") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/round-filled.woff?1696234609")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/round-filled.ttf?1696234609")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/round-filled.svg?1696234609#round-lined") format("svg"); /* Legacy iOS */
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "bb-icons";
+  src: url("../fonts/filled.eot?1696234609"); /* EOT */
+  src: url("../fonts/filled.eot?1696234609#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/filled.woff2?1696234609") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/filled.woff?1696234609")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/filled.ttf?1696234609")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/filled.svg?1696234609#round-lined")
+      format("svg"); /* Legacy iOS */
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "bb-icons";
+  src: url("../fonts/lined.eot?1696234609"); /* EOT */
+  src: url("../fonts/lined.eot?1696234609#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/lined.woff2?1696234609") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/lined.woff?1696234609")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/lined.ttf?1696234609")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/lined.svg?1696234609#round-lined")
+      format("svg"); /* Legacy iOS */
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "bb-icons";
+  src: url("../fonts/box-lined.eot?1696234609"); /* EOT */
+  src: url("../fonts/box-lined.eot?1696234609#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/box-lined.woff2?1696234609") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/box-lined.woff?1696234609")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/box-lined.ttf?1696234609")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/box-lined.svg?1696234609#round-lined") format("svg"); /* Legacy iOS */
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "bb-icons";
+  src: url("../fonts/box-filled.eot?1696234609"); /* EOT */
+  src: url("../fonts/box-filled.eot?1696234609#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/box-filled.woff2?1696234609") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/box-filled.woff?1696234609")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/box-filled.ttf?1696234609")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/box-filled.svg?1696234609#round-lined") format("svg"); /* Legacy iOS */
+  font-weight: 500;
+  font-style: normal;
+}
